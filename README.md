@@ -24,4 +24,10 @@ Tips:
 
 Enter to responsive mode to use touch funcionallity
 
+Live demo:
+
+```sh
+https://carousel-levy4cq4j-jraor.vercel.app/
+```
+
 Enjoy!
