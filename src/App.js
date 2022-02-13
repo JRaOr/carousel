@@ -3,7 +3,7 @@ import { useSwipeable } from 'react-swipeable';
 import { AiOutlineArrowLeft, AiOutlineArrowRight } from 'react-icons/ai'
 import './styles/main.css'
 const data = [
-    {name : 'Name Lastname', position : 'Position', role : 'Team position', image : '/images/image_1.jpg'},
+    {name : 'Name Lastname 1', position : 'Position', role : 'Team position', image : '/images/image_1.jpg'},
     {name : 'Name Lastname', position : 'Position', role : 'Team position', image : '/images/image_2.jpg'},
     {name : 'Name Lastname', position : 'Position', role : 'Team position', image : '/images/image_3.jpg'},
     {name : 'Name Lastname', position : 'Position', role : 'Team position', image : '/images/image_4.jpg'},
